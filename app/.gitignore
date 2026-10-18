@@ -1,0 +1,9 @@
+.tools/
+.nuget/
+.dotnet-home/
+**/bin/
+**/obj/
+artifacts/
+TestResults/
+.qa/
+.proto-baseline.json

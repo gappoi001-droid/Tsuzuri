@@ -1,0 +1,6 @@
+# Only the app and its icon are published. Notes, prototypes and release binaries stay local.
+/*
+!/.gitignore
+!/README.md
+!/app/
+!/assets/
